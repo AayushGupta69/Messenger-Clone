@@ -11,6 +11,7 @@ A fully responsive real-time messenger clone made with Next.js 13 (app router), 
 
 - **[Next.js](https://nextjs.org/)**
 - **[React](https://facebook.github.io/react/)**
+- **[Prisma](https://www.prisma.io/)**
 - **[MongoDB](https://www.mongodb.com/atlas/database)**
 - **[Tailwind CSS](https://tailwindcss.com/)**
 - **[Pusher](https://pusher.com/)**
