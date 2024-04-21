@@ -5,7 +5,7 @@ A fully responsive real-time messenger clone made with Next.js 13 (app router), 
 - **[Tech Stack](#tech-stack)**
 - **[Features](#features)**
 - **[Setup](#setup)**
-- **[Running the App](#running_the_app)**
+- **[Running the App](#running-the-app)**
 
 ## Tech Stack
 
