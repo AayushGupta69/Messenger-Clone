@@ -28,7 +28,7 @@ git clone https://github.com/AayushGupta69/Messenger-Clone
 cd Messenger-Clone
 ```
 
-2. **Create a .env file:**
+2. **Create a ```.env``` file:**
 
 Create a .env file based on the .env.example file provided. Replace the placeholder values with your actual Google Authentication, GitHub Authentication, Cloudinary, Pusher and MongoDB values.
 ```
@@ -58,6 +58,8 @@ Install dependencies by running ``` yarn install ``` in the terminal. If you don
 
 Run ``` yarn prisma db push ``` in the terminal to create the database collections using Prisma.
 
-## Running
+## Running the app
 
-Run ```yarn dev``` to run the app locally with Hot Module Replacement (HMR) enabled.
+- Run ```yarn dev``` to run the app locally with Hot Module Replacement (HMR) enabled. 
+
+- The app will be running on ```http://localhost:3020/```.
