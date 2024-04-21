@@ -57,10 +57,11 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 ```
 
-3. **Installing Dependencies**
+3. **Installing Dependencies:**
+
 Install dependencies by running ``` yarn install ``` in the terminal. If you don't have yarn installed, install it from [Install Yarn](https://yarnpkg.com/getting-started/install).
 
-4. **Creating Database Collections**
+4. **Creating Database Collections:**
 
 Run ``` yarn prisma db push ``` in the terminal to create the database collections using Prisma.
 
