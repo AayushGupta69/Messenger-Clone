@@ -1,7 +1,9 @@
 ## Messenger Clone
+
 A fully responsive real-time messenger clone made with Next.js 13 (app router), MongoDB, Tailwind CSS, Pusher, Next-Auth and Cloudinary.
 
 ## Table of Contents
+
 - **[Tech Stack](#tech-stack)**
 - **[Features](#features)**
 - **[Setup](#setup)**
